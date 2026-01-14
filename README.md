@@ -1,14 +1,36 @@
-<h1 align="center">Hola soy Marcos 👋/h1>
-<span></span>
+<h1 align="center">Hola, soy Marcos 👋</h1>
 
-<img width="1024" height="544" alt="68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323034382f312a4f6f687157354447683943515334684c593546587a412e706e67" src="https://github.com/user-attachments/assets/1fcdd877-7e46-4ba7-9cf9-52e9ea399780" />
+<p align="center">
+  <strong>Desarrollador Back-end especializado en Python</strong>
+</p>
 
-<h3 aling="left">Soy programador orientado al desarrollo Back-end con especialidad en Python</h3>
+<p align="center">
+  <img 
+    width="1024" 
+    height="544" 
+    alt="Backend Development Banner" 
+    src="https://github.com/user-attachments/assets/1fcdd877-7e46-4ba7-9cf9-52e9ea399780"
+  />
+</p>
 
+<hr/>
 
+<h3 align="left">👨‍💻 Sobre mí</h3>
 
--------------------
-## 🛠️ My Skills
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,javascript,html,css,git,vue,angular,postgresql,mysql,docker,aws,figma,notionl&perline=14)](https://skillicons.dev)
+<p align="left">
+  Soy programador orientado al desarrollo <strong>Back-end</strong>, con foco en la creación de 
+  <strong>APIs REST</strong>, diseño de sistemas escalables y manejo eficiente de bases de datos.  
+  Trabajo principalmente con <strong>Python</strong> y frameworks modernos, aplicando buenas prácticas
+  de arquitectura, seguridad y mantenimiento del código.
+</p>
 
--------------------
+<hr/>
+
+<h3 align="left">🛠️ Skills</h3>
+
+<p align="left">
+  <img 
+    src="https://skillicons.dev/icons?i=python,django,fastapi,javascript,html,css,git,vue,angular,postgresql,mysql,docker,aws,figma,notion&perline=8" 
+    alt="My Skills"
+  />
+</p>
