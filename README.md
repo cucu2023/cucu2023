@@ -3,4 +3,4 @@
 
 I'm https://github.com/cucu2023/cucu2023
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,javascript,html,css,git,vue,angular,postgresql,mysql,docker,aws,figma,notionl&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,javascript,html,css,git,vue,angular,postgresql,mysql,docker,aws,figma,notionl&perline=4)](https://skillicons.dev)
