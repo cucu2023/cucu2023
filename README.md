@@ -33,4 +33,16 @@
     src="https://skillicons.dev/icons?i=python,django,fastapi,javascript,html,css,git,vue,angular,postgresql,mysql,docker,aws,figma,notion&perline=8" 
     alt="My Skills"
   />
+## Contacto
+
+<a href="https://www.linkedin.com/in/marcos-cufre-267562309/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a
+  
+<a href="https://github.com/cucu2023" target="_blank">
+<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+<a href="marcoscufre04@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+
 </p>
